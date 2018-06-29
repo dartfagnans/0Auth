@@ -1,0 +1,26 @@
+{
+  "name": "0auth",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u00000\u0000A\u0000u\u0000t\u0000h\u0000\r\u0000 \u0000",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dartfagnans/0Auth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dartfagnans/0Auth/issues"
+  },
+  "homepage": "https://github.com/dartfagnans/0Auth#readme",
+  "dependencies": {
+    "cookie-parser": "latest",
+    "express": "^4.16.3",
+    "express-session": "latest",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.17.5"
+  }
+}
